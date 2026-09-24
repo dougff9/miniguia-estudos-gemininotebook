@@ -1,5 +1,7 @@
 # Miniguia de Estudos: A História do Bitcoin
 
+![Bitcoin: A Gênese e Ascensão do Ouro Digital](./capa_bitcoin.jpg)
+
 ## Contexto e Objetivos
 
 O assunto de interesse escolhido para este caderno temático é **A História e os Fundamentos do Bitcoin**. 
